@@ -1,2 +1,6 @@
 # Wrist-Vein-on-Saturation-Channel
-Python implementation of the wrist vein on saturation channel
+
+## 簡介
+程式練習...
+
+以往靜脈識別中，需依賴波長7xx到9xxnm的近紅外光來穿透皮膚拍攝人體靜脈特徵，近紅外光裝置是額外的設備成本，希望能不透過這額外的成本，僅使用RGB影像轉為HSL色彩空間，再提取其中的飽和通道來凸顯靜脈特徵，最後提取感興趣區域與資料庫中已註冊的用戶作個人身份驗證
