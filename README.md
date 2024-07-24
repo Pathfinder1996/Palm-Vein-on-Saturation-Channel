@@ -1,4 +1,4 @@
-# Wrist-Vein-on-Saturation-Channel
+# Palm-Vein-on-Saturation-Channel
 
 ## 簡介
 程式練習...
